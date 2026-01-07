@@ -24,4 +24,8 @@ link:https://lydiareiter.framer.website/[]
 
 link:https://app.clickup.com/90151093437/v/li/901519468206[zum Board]
 
-image::img/canbanscreenshot2026-01-06.png[]
+image:img/canbanscreenshot2026-01-06.png[]
+
+== Zwischenpräsentation
+
+link:zwischenpräsentation.pdf[zur Pdf]
